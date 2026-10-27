@@ -35,6 +35,7 @@ numpy
 streamlit
 
 langchain-chroma
+langchain-huggingface
 chromadb
 
 langchain-groq
