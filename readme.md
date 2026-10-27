@@ -7,8 +7,7 @@ Retrieval-Augmented Generation (RAG).
 
 ## 🚀 [OPEN DOCUMIND — LIVE APP](https://documind-a-rag-based-pdf-chatbot.streamlit.app/)
 
-> Replace `PASTE_YOUR_LIVE_APP_URL_HERE` with your deployed Streamlit
-> app URL.
+
 
 ![DocuMind logo](img/documind.png)
 
