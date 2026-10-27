@@ -1,0 +1,42 @@
+# Core LangChain framework
+
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+
+# PDF document loading
+
+pypdf
+
+# Vector database
+
+faiss-cpu
+
+# Gemini API integration
+
+langchain-google-genai
+google-genai
+
+# Mistral API integration
+
+langchain-mistralai
+
+# Environment variables for API keys
+
+python-dotenv
+
+# Numerical operations
+
+numpy
+
+# Optional: Build a web interface
+
+streamlit
+
+langchain-chroma
+chromadb
+
+
+streamlit
+

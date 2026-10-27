@@ -1,0 +1,30 @@
+Secrets
+
+.env
+.env.*
+
+Python
+
+pycache/
+*.py[cod]
+.venv/
+venv/
+
+Virtual environments
+
+env/
+
+Generated databases and local data
+
+project_db/
+chroma_db/
+*.sqlite3
+
+IDE
+
+.vscode/
+
+OS files
+
+.DS_Store
+Thumbs.db
