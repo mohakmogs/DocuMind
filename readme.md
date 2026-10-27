@@ -21,7 +21,7 @@ filenames:
 
 | DocuMind Home                                          | Chat with Your Documents                               |
 |--------------------------------------------------------|--------------------------------------------------------|
-| ![DocuMind home screen](screenshots/documind-home.png) | ![DocuMind chat screen](screenshots/documind-chat.png) |
+| ![DocuMind home screen](5.png) | ![DocuMind chat screen](4.png) |
 
 ------------------------------------------------------------------------
 
