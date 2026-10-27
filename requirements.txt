@@ -37,6 +37,8 @@ streamlit
 langchain-chroma
 chromadb
 
+langchain-groq
+
 
 streamlit
 
